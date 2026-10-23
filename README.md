@@ -5,11 +5,11 @@ AGN photoionization model from P. Zhu et al. (2023, ApJ, 954, 2, 175). This dust
 
 'AGN_NHlow_isoB_DN_MV520.csv' contains the AGN photoionization model built with 'NHlow' nitrogen abundance scaling relation;
 
-Please refer to P.Zhu et al., (2023) for detailed description on model settings.
+Please refer to [Zhu et al. (2023)](https://doi.org/10.3847/1538-4357/acd757) for detailed description on model settings.
 
 ## Citation
 
 If you use these model grids, please cite:
 
-Zhu, P., Kewley, L. J., & Sutherland, R. S. (2023),ApJ, 954, 175.
-DOI: 10.3847/1538-4357/acd757
+Zhu, P., Kewley, L. J., & Sutherland, R. S. (2023), ApJ, 954, 175.  
+DOI: [10.3847/1538-4357/acd757](https://doi.org/10.3847/1538-4357/acd757)
